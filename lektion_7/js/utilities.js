@@ -1,10 +1,10 @@
-export function sortDescending(arr){
+export function sortDescending(arr) {
     const newArr = [...arr];
 
     newArr.sort();
     return newArr;
 }
-export function sortAscending(arr){
+export function sortAscending(arr) {
     const newArr = [...arr];
 
     newArr.sort();
